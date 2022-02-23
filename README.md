@@ -1,6 +1,6 @@
 # Getting Started
 
-This project was created for a job interview.
+***This project was created for a job interview!*** \
 Add the json file to a public directory and rename it or paste an api link if the useFetch hook if necessary. 
 
 ## Available Scripts
