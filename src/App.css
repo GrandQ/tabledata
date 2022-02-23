@@ -27,7 +27,18 @@ body {
 ul {
   list-style: none;
 }
+.main {
+  margin: 1rem;
+  text-align: center;
+}
 
+input { 
+  border: .2rem solid #cea2ac;
+  border-radius: 1rem;
+  padding: .5rem 2rem;
+  color: #25283D;
+  outline: none;
+}
 @media only screen and (min-width: 600px) {
   .table-container {
     justify-content: center;
